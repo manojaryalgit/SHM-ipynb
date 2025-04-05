@@ -1,13 +1,13 @@
 
-# 🧭 Simple Harmonic Motion (SHM) Simulator
+# Simple Harmonic Motion (SHM) Simulator
 
 This project simulates and visualizes **Simple Harmonic Motion (SHM)** of a mass-spring system using Python. It's a great tool for learning about oscillatory systems and energy conservation in classical mechanics.
 
-![SHM Motion](https://upload.wikimedia.org/wikipedia/commons/0/0c/Simple_Harmonic_Motion_Animation.gif)
+![SHM Motion](https://upload.wikimedia.org/wikipedia/commons/7/74/Simple_harmonic_motion_animation.gif?20240219124912)
 
 ---
 
-## 📚 Features
+## Features
 
 ✅ Simulates the motion of a mass on a spring  
 ✅ Visualizes:
@@ -21,7 +21,7 @@ This project simulates and visualizes **Simple Harmonic Motion (SHM)** of a mass
 
 ---
 
-## 🧠 Physics Behind It
+## Physics Behind It
 
 The system is governed by **Hooke’s Law**:  
 \[ F = -kx \]  
@@ -36,7 +36,7 @@ Where:
 
 ---
 
-## 📊 Visualizations
+## Visualizations
 
 - 📈 Position, velocity, acceleration vs. time  
 - 🔁 Phase space: displacement vs. velocity  
@@ -48,5 +48,5 @@ Where:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/shm-simulation.git
-   cd shm-simulation
+   git clone https://github.com/manojaryalgit/SHM-ipynb.git
+   cd SHM-ipynb
